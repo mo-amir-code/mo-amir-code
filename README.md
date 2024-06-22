@@ -56,10 +56,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=mo-amir-code&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://readme-stats.demolab.com/api?username=mo-amir-code&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://readme-stats.demolab.com/api/top-langs/?username=mo-amir-code&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  ![mo-amir-code's Stats](https://github-readme-stats.vercel.app/api?username=mo-amir-code&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![mo-amir-code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mo-amir-code&theme=vue-dark&hide_border=true)
+  ![mo-amir-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <br/><br/>
@@ -73,3 +72,5 @@
 </h1>
 
 <br/>
+
+
