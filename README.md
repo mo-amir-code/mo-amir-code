@@ -57,8 +57,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mo-amir-code&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
-  <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+  <br/>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mo-amir-code&theme=tokyonight&hide_border=true" alt="readme stats" />
 </div>
 
