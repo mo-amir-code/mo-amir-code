@@ -56,9 +56,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  ![mo-amir-code's Stats](https://github-readme-stats.vercel.app/api?username=mo-amir-code&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![mo-amir-code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mo-amir-code&theme=vue-dark&hide_border=true)
-  ![mo-amir-code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mo-amir-code&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mo-amir-code&theme=dark&hide_border=true" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
