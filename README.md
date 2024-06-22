@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mo-amir-code.mo-amir-code" />
 
 <h1 align="center">
