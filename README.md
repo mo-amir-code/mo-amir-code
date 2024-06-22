@@ -29,6 +29,9 @@
   <a href="https://linkedin.com/in/mo-amir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://x.com/mo_amir_code" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=dark" target="_blank" />
+  </a>
 </div>
 
  <hr/>
@@ -52,16 +55,14 @@
 </div>
 
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mo-amir-code&theme=tokyonight&hide_border=true" alt="readme stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mo-amir-code&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
   <br/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mo-amir-code&theme=tokyonight&hide_border=true" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
-
 <br/><br/>
 
 <hr/>
@@ -73,5 +74,3 @@
 </h1>
 
 <br/>
-
-
