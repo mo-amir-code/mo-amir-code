@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a npm package**
+ 🔭 I’m currently working on **A Crypto Payment Gateway**
  
- 🌱 I’m currently learning **Blockchain, solidity**
+ 🌱 I’m currently learning **Blockchain, Solidity**
 
 💬 Ask me about **Node.js, React, Next... or anything [here](https://github.com/mo-amir-code/mo-amir-code/issues)**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,postgresql,discordjs,docker," />
-    <img src="https://skillicons.dev/icons?i=figma,git,kubernetes,linux,materialui,nginx,postman,prisma,redis,redux,vscode," /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,postgresql,discordjs,docker,solidity,tailwind,jenkins" />
+    <img src="https://skillicons.dev/icons?i=figma,git,kubernetes,linux,materialui,nginx,postman,prisma,redis,redux,vscode,rust,arch,git" /><br>
 </div>
 
 <br/>
@@ -47,11 +47,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    <a href="https://www.devmirza.ml">
+    <!-- <a href="https://www.devmirza.ml">
         <img src="https://github.com/mo-amir-code/mo-amir-code/blob/output/github-snake-dark.svg" alt="snake" />
-    </a>
+    </a> -->
   
-  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mo-amir-code/mo-amir-code/output/github-contribution-grid-snake.svg" /> -->
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mo-amir-code/mo-amir-code/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -80,13 +80,14 @@
   <h2 align="center">👇 Latest Activity Graph 👇</h2><br/>
     <a href="https://github.com/mo-amir-code/"><img alt="mo-amir-code's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-amir-code&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+<br/>
 <hr/>
 
-<br />
+<!-- <br />
     <h2 align="center">🤡 More Advanced Activity Graph</h2>
     <img src="https://raw.githubusercontent.com/mo-amir-code/mo-amir-code/main/profile-3d-contrib/profile-night-green.svg" />
 <br/>
-<hr/>
+<hr/> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);" />
