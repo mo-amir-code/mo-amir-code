@@ -47,25 +47,46 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mo-amir-code/mo-amir-code/output/github-contribution-grid-snake.svg" />
+    <a href="https://www.devmirza.ml">
+        <img src="https://github.com/mo-amir-code/mo-amir-code/blob/output/github-snake-dark.svg" alt="snake" />
+    </a>
+  
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mo-amir-code/mo-amir-code/output/github-contribution-grid-snake.svg" /> -->
   
   <br/><br/><br/>
 </div>
 
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mo-amir-code&theme=tokyonight&hide_border=true" alt="readme stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mo-amir-code&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
-</div>
-<br/><br/>
+<br/>
+<div>
+        <p align="center">
+            <a href="https://github.com/mo-amir-code">
+                <img src="https://github-readme-streak-stats-blush-two.vercel.app?user=mo-amir-code&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+            </a>
+        </p>
+        <p align="center">
+            <a href="https://github.com/mo-amir-code">
+                <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mo-amir-code&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+                <img width="49.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-amir-code&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+            </a>
+        </p>
+    </div>
 
+  <br/>
+  <br/>
+  <hr/>
+  <br/>
+  <h2 align="center">👇 Latest Activity Graph 👇</h2><br/>
+    <a href="https://github.com/mo-amir-code/"><img alt="mo-amir-code's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-amir-code&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 <hr/>
 
+<br />
+    <h2 align="center">🤡 More Advanced Activity Graph</h2>
+    <img src="https://raw.githubusercontent.com/mo-amir-code/mo-amir-code/main/profile-3d-contrib/profile-night-green.svg" />
 <br/>
+<hr/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);" />
