@@ -60,25 +60,27 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div>
-        <p align="center">
-            <a href="https://github.com/mo-amir-code">
-                <img src="https://github-readme-streak-stats-blush-two.vercel.app?user=mo-amir-code&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-            </a>
-        </p>
-        <p align="center">
-            <a href="https://github.com/mo-amir-code">
-                <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mo-amir-code&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-                <img width="49.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-amir-code&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-            </a>
-        </p>
-    </div>
+  <p align="start">
+    <img src="https://github-readme-streak-stats-blush-two.vercel.app?user=mo-amir-code&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
+    </picture>
+  </p>
+  <p align="start" style="margin-top: -20px;">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mo-amir-code&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </p>
 
-  <br/>
-  <br/>
-  <hr/>
-  <br/>
-  <h2 align="center">👇 Latest Activity Graph 👇</h2><br/>
-    <a href="https://github.com/mo-amir-code/"><img alt="mo-amir-code's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-amir-code&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <!-- <h2 align="center">👇 Latest Activity Graph 👇</h2><br/> -->
+  <a href="https://github.com/mo-amir-code/github-readme-activity-graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mo-amir-code&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116" >
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-amir-code&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity" >
+    </picture>
+  </a>
+</div>
+
+
 <br/>
 <br/>
 <hr/>
