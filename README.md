@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Solana Based Program Named WorkBee**
+ 🔭 I’m currently working on **My Skills**
  
- 🌱 I’m currently learning **Blockchain, Solidity**
+ 🌱 I’m currently learning **C/C++, DSA**
 
 💬 Ask me about **Node.js, React, Next... or anything [here](https://github.com/mo-amir-code/mo-amir-code/issues)**
 
