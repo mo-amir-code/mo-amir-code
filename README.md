@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **on a ChatGPT Management extension**
+ 🔭 I’m currently working on **a ChatGPT Management extension**
  
  🌱 I’m currently learning **C/C++, DSA**
 
