@@ -67,9 +67,9 @@
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
     </picture>
   </p>
-  <p align="start" style="margin-top: -20px;">
+  <!-- <p align="start" style="margin-top: -20px;">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mo-amir-code&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </p>
+  </p> -->
 
   <!-- <h2 align="center">👇 Latest Activity Graph 👇</h2><br/> -->
   <a href="https://github.com/mo-amir-code/github-readme-activity-graph">
