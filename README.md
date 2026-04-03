@@ -1,98 +1,88 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mo-amir-code.mo-amir-code" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mo+Amir!;" />
-</h1>
-
-<h3 align="center">A passionate software engineer</h3>
-
-<br/>
+<div align="center">
+  <h1>Mo Amir</h1>
+  <p><strong>DevOps Engineer</strong> • Automation • Cloud Infrastructure • Reliable Delivery</p>
+</div>
 
 <div align="center">
- 
- <!-- 🔭 I’m currently working on **a ChatGPT Management extension** -->
- 
- 🌱 I’m currently learning **Blockchain Development**
-
-💬 Ask me about **node.js, next.js... or full stack development [here](https://github.com/mo-amir-code/mo-amir-code/issues)**
-
-<!-- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
-
- </div>
- 
-<div align="center"> 
   <a href="mailto:mo.amir.code@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/mo-amir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://linkedin.com/in/mo-amir">
+    <img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/mo_amir_code" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=dark" target="_blank" />
+  <a href="https://x.com/mo_amir_code">
+    <img src="https://img.shields.io/badge/X-1f2937?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.moamir.cloud">
+    <img src="https://img.shields.io/badge/Portfolio-moamir.cloud-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,postgresql,discordjs,docker,solidity,tailwind,jenkins" />
-    <img src="https://skillicons.dev/icons?i=figma,git,kubernetes,linux,materialui,nginx,postman,prisma,redis,redux,vscode,rust,arch,git" /><br>
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    <!-- <a href="https://www.devmirza.ml">
-        <img src="https://github.com/mo-amir-code/mo-amir-code/blob/output/github-snake-dark.svg" alt="snake" />
-    </a> -->
-  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mo-amir-code/mo-amir-code/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <sub>From software development to full-time DevOps engineering.</sub>
 </div>
 
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<div>
-  <p align="start">
-    <img src="https://github-readme-streak-stats-blush-two.vercel.app?user=mo-amir-code&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-amir-code&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
-    </picture>
-  </p>
-  <!-- <p align="start" style="margin-top: -20px;">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mo-amir-code&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </p> -->
+## About
 
-  <!-- <h2 align="center">👇 Latest Activity Graph 👇</h2><br/> -->
-  <a href="https://github.com/mo-amir-code/github-readme-activity-graph">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mo-amir-code&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116" >
-      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mo-amir-code&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity" >
-    </picture>
-  </a>
+I come from a software development background and now focus entirely on DevOps engineering — building systems that are stable, observable, and easy to ship with.
+
+- CI/CD pipelines and release automation
+- Infrastructure as Code and cloud operations
+- Containerized workloads and platform reliability
+- Monitoring, alerting, and operational visibility
+
+---
+
+## Focus
+
+| Area | What I Deliver |
+| --- | --- |
+| Delivery | Faster and safer deployments |
+| Infrastructure | Scalable and reproducible environments |
+| Reliability | Better uptime and incident readiness |
+| Automation | Less manual work and fewer errors |
+| Cost Optimization | Efficient cloud usage and reduced operational spend |
+
+---
+
+## Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,nginx,redis,postgresql,git,githubactions,aws,terraform" alt="DevOps stack" />
 </div>
 
+---
 
-<br/>
-<br/>
-<hr/>
+## Portfolio
 
-<!-- <br />
-    <h2 align="center">🤡 More Advanced Activity Graph</h2>
-    <img src="https://raw.githubusercontent.com/mo-amir-code/mo-amir-code/main/profile-3d-contrib/profile-night-green.svg" />
-<br/>
-<hr/> -->
+Explore projects and articles: **[www.moamir.cloud](https://www.moamir.cloud)**
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);" />
-</h1>
+---
 
-<br/>
+## Delivery Flow
+
+```txt
+Code → CI/CD → Containerization → IaC → Monitoring
+```
+
+I build practical delivery systems that help teams ship faster and operate with confidence.
+
+---
+
+## Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mo-amir-code/mo-amir-code/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</div>
+
+---
+
+## Let’s Connect
+
+If you’re building something meaningful and need DevOps support, let’s connect.
+
+<div align="center">
+  <sub>Clean systems. Reliable releases. Better engineering velocity.</sub>
+</div>
