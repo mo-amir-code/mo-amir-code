@@ -18,6 +18,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mo-amir-code.mo-amir-code" alt="Profile views" />
+</div>
+
 <br/>
 
 <div align="center">
