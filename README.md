@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Mo Amir</h1>
-  <p><strong>DevOps Engineer</strong> • Automation • Cloud Infrastructure • Reliable Delivery</p>
+  <p><strong>DevOps Engineer</strong> • FinOps • Automation • Cloud Infrastructure • Reliable Delivery</p>
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 ## About
 
-I come from a software development background and now focus entirely on DevOps engineering — building systems that are stable, observable, and easy to ship with.
+I come from a software development background and now focus on DevOps engineering and FinOps — building systems that are stable, observable, and easy to ship with, while keeping cloud spend efficient.
 
 - CI/CD pipelines and release automation
 - Infrastructure as Code and cloud operations
@@ -83,9 +83,9 @@ I build practical delivery systems that help teams ship faster and operate with 
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
-If you’re building something meaningful and need DevOps support, let’s connect.
+If you're building something meaningful and need DevOps support, let's connect.
 
 <div align="center">
   <sub>Clean systems. Reliable releases. Better engineering velocity.</sub>
